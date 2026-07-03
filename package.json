@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/cmls-gama/banco-web-tests#readme",
   "devDependencies": {
-    "cypress": "^15.8.0"
+    "cypress": "^15.8.0",
+    "cypress-mochawesome-reporter": "^4.0.2"
   }
 }
